@@ -1,7 +1,6 @@
 package com.lvpf.lambda;
 
 import com.lvpf.why.Student;
-
 import java.util.Arrays;
 import java.util.List;
 import java.util.concurrent.Callable;
@@ -104,9 +103,6 @@ public class LambdaTest {
 		}*/
 		list.forEach(System.out::println);
 	}
-
-
-
 
 
 	static int get(){
